@@ -1,4 +1,4 @@
-package seminar.java_seminar_oop_4.weapons;
+package seminar.JAVA_OOP_TASK7.weapons;
 
 public class Bow implements Weapon {
 
