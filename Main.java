@@ -1,14 +1,14 @@
-package seminar.java_seminar_oop_4;
+package seminar.JAVA_OOP_TASK7;
 
-import seminar.java_seminar_oop_4.items.Archer;
-import seminar.java_seminar_oop_4.items.SwordMan;
-import seminar.java_seminar_oop_4.items.Warrior;
-import seminar.java_seminar_oop_4.shields.BigShield;
-import seminar.java_seminar_oop_4.shields.NotShield;
-import seminar.java_seminar_oop_4.shields.SmallShield;
-import seminar.java_seminar_oop_4.team.Team;
-import seminar.java_seminar_oop_4.weapons.Bow;
-import seminar.java_seminar_oop_4.weapons.Sword;
+import seminar.JAVA_OOP_TASK7.items.Archer;
+import seminar.JAVA_OOP_TASK7.items.SwordMan;
+import seminar.JAVA_OOP_TASK7.items.Warrior;
+import seminar.JAVA_OOP_TASK7.shields.BigShield;
+import seminar.JAVA_OOP_TASK7.shields.NotShield;
+import seminar.JAVA_OOP_TASK7.shields.SmallShield;
+import seminar.JAVA_OOP_TASK7.team.Team;
+import seminar.JAVA_OOP_TASK7.weapons.Bow;
+import seminar.JAVA_OOP_TASK7.weapons.Sword;
 
 public class Main {
     public static void main(String[] args) {
